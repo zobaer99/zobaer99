@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/wave-header.svg" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Talha.jpg" alt="Avatar" align="center" style="margin:0;idth:200px; border-radius: 50%;">
 <h1 align="center">Hi 👋, I'm Talha Zobaer</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
