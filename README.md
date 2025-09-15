@@ -11,20 +11,20 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-<table width="100%">
-  <tr width="100%">
-    <td valign="top" width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
       <p align="left">
-        - 🔭 I’m currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
-        - 🌱 I’m currently learning <b>Django, Flask & more about Python</b><br>
+        - 🔭 I'm currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
+        - 🌱 I'm currently learning <b>Django, Flask & more about Python</b><br>
         - 👨‍💻 All of my projects are available at <a href="https://talhazobaer.com/">talhazobaer.com</a><br>
         - 💬 Ask me about <b>Laravel, JavaScript etc.</b><br>
         - 📫 How to reach me <b>talhazobaer.403@gmail.com</b><br>
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
     </td>
-    <td valign="top" width="100%">
-      <img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
+    <td valign="top" width="40%">
+      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
     </td>
   </tr>
 </table>
