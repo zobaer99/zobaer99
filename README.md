@@ -13,7 +13,7 @@
 </p>
 <table width="100%">
   <tr width="100%">
-    <td valign="top" width="70%">
+    <td valign="top" width="100%">
       <p align="left">
         - 🔭 I’m currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
         - 🌱 I’m currently learning <b>Django, Flask & more about Python</b><br>
@@ -23,7 +23,7 @@
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
     </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="100%">
       <img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
     </td>
   </tr>
