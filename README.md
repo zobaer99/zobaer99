@@ -1,9 +1,8 @@
 <!-- Animated Header -->
 <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/wave-header.svg" width="100%"/>
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Talha.png" width="200" />
-</p>
-
+</p> -->
 <h1 align="center">Hi 👋, I'm Talha Zobaer</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -14,7 +13,7 @@
 </p>
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
       <p align="left">
         - 🔭 I’m currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
         - 🌱 I’m currently learning <b>Django, Flask & more about Python</b><br>
@@ -25,7 +24,7 @@
       </p>
       <hr>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="30%">
       <img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
     </td>
   </tr>
