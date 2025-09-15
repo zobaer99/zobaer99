@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/WaveLoop.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/wave-header.svg" width="100%"/>
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Talha.png" width="200" />
 </p> -->
