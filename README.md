@@ -13,7 +13,7 @@
 </p>
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top">
       <p align="left">
         - 🔭 I'm currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
         - 🌱 I'm currently learning <b>Django, Flask & more about Python</b><br>
@@ -23,7 +23,10 @@
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
     </td>
-    <td valign="top" width="40%" align="center">
+    <td valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
+    </td>
+    <td valign="top" align="center">
       <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
     </td>
   </tr>
