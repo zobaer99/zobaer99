@@ -29,6 +29,9 @@
     <td valign="top" align="center">
       <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
     </td>
+    <td valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
+    </td>
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
