@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-
+<div align="left">
 - 🔭 I’m currently working on [Focus Academy](https://focusacademicsbd.com/)  
 - 🌱 I’m currently learning **Django, Flask & more about Python**  
 - 👨‍💻 All of my projects are available at [talhazobaer.com](https://talhazobaer.com/)  
@@ -18,7 +18,8 @@
 - 📄 Know about my experiences [talhazobaer.com](https://talhazobaer.com/)  
 
 ---
-
+</div>
+<img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/talha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="talha99" height="30" width="40" /></a>
