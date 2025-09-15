@@ -11,8 +11,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-<table>
-  <tr>
+<table width="100%">
+  <tr width="100%">
     <td valign="top" width="70%">
       <p align="left">
         - 🔭 I’m currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
@@ -22,7 +22,6 @@
         - 📫 How to reach me <b>talhazobaer.403@gmail.com</b><br>
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
-      <hr>
     </td>
     <td valign="top" width="30%">
       <img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
