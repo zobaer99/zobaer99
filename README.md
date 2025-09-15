@@ -11,7 +11,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="60%">
       <p align="left">
@@ -23,8 +23,8 @@
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
     </td>
-    <td valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
+    <td valign="top" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
     </td>
   </tr>
 </table>
