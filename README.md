@@ -11,7 +11,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%" align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" align="center">
       <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Programming.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
@@ -25,9 +25,6 @@
         - 📫 How to reach me <b>talhazobaer.403@gmail.com</b><br>
         - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
       </p>
-    </td>
-    <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
     </td>
     <td valign="top" align="center">
       <img src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" alt="Development GIF" width="100%" style="max-width: 400px;">
