@@ -12,17 +12,24 @@
     <img src="https://github-profile-trophy.vercel.app/?username=zobaer99&theme=algolia&margin-w=15&margin-h=15" alt="zobaer99" />
   </a> 
 </p>
-<div align="left">
-- 🔭 I’m currently working on [Focus Academy](https://focusacademicsbd.com/)  
-- 🌱 I’m currently learning **Django, Flask & more about Python**  
-- 👨‍💻 All of my projects are available at [talhazobaer.com](https://talhazobaer.com/)  
-- 💬 Ask me about **Laravel, JavaScript etc.**  
-- 📫 How to reach me **talhazobaer.403@gmail.com**  
-- 📄 Know about my experiences [talhazobaer.com](https://talhazobaer.com/)  
-
----
-</div>
-<img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="left">
+        - 🔭 I’m currently working on <a href="https://focusacademicsbd.com/">Focus Academy</a><br>
+        - 🌱 I’m currently learning <b>Django, Flask & more about Python</b><br>
+        - 👨‍💻 All of my projects are available at <a href="https://talhazobaer.com/">talhazobaer.com</a><br>
+        - 💬 Ask me about <b>Laravel, JavaScript etc.</b><br>
+        - 📫 How to reach me <b>talhazobaer.403@gmail.com</b><br>
+        - 📄 Know about my experiences <a href="https://talhazobaer.com/">talhazobaer.com</a>
+      </p>
+      <hr>
+    </td>
+    <td valign="top" width="40%">
+      <img align="right" src="https://raw.githubusercontent.com/zobaer99/zobaer99/main/assets/Development.gif" width="100%">
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/talha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="talha99" height="30" width="40" /></a>
